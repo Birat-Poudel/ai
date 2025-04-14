@@ -1,0 +1,101 @@
+Customer_ID,Booking_Frequency,Avg_Spending,Preferred_Service,Review_Text,Last_Activity
+1001,5,150,Massage,Loved it!,2024-03-01
+1002,2,80,Facial,Too expensive,2024-02-20
+1003,8,300,Wellness Package,Highly recommend,2024-02-15
+1004,6,293,Wellness Package,Too expensive,2023-12-07
+1005,8,147,Hair Treatment,Too expensive,2024-01-07
+1006,9,344,Facial,Will come again,2024-02-06
+1007,9,229,Manicure,Will come again,2023-12-13
+1008,6,293,Wellness Package,Very relaxing,2023-12-17
+1009,3,457,Hair Treatment,Could be better,2024-01-27
+1010,12,273,Hair Treatment,Highly recommend,2024-01-21
+1011,11,107,Facial,Not bad,2024-01-17
+1012,6,302,Hair Treatment,Amazing experience,2024-01-22
+1013,6,241,Wellness Package,Will come again,2024-02-02
+1014,3,479,Massage,Not bad,2024-02-26
+1015,1,336,Facial,Could be better,2023-12-10
+1016,7,142,Massage,Not bad,2023-12-13
+1017,1,63,Wellness Package,Very relaxing,2024-01-09
+1018,9,237,Facial,Too expensive,2024-01-12
+1019,4,59,Manicure,Loved it!,2024-01-10
+1020,3,263,Hair Treatment,Amazing experience,2024-01-11
+1021,6,368,Facial,Very relaxing,2023-12-13
+1022,2,198,Facial,Loved it!,2024-01-20
+1023,9,382,Hair Treatment,Too expensive,2024-01-03
+1024,10,389,Wellness Package,Amazing experience,2024-02-05
+1025,11,216,Yoga Session,Loved it!,2024-02-15
+1026,8,392,Massage,Highly recommend,2024-01-12
+1027,2,206,Wellness Package,Loved it!,2024-01-12
+1028,11,394,Manicure,Not bad,2024-01-09
+1029,6,434,Yoga Session,Could be better,2023-12-26
+1030,3,168,Manicure,Highly recommend,2024-01-26
+1031,6,455,Wellness Package,Will come again,2023-12-27
+1032,7,198,Manicure,Highly recommend,2024-02-24
+1033,8,289,Wellness Package,Too expensive,2023-12-14
+1034,2,472,Manicure,Will come again,2023-12-11
+1035,4,458,Massage,Not bad,2024-02-08
+1036,3,257,Hair Treatment,Very relaxing,2024-01-26
+1037,5,335,Yoga Session,Highly recommend,2024-02-17
+1038,7,194,Yoga Session,Very relaxing,2024-02-22
+1039,11,284,Facial,Amazing experience,2024-01-03
+1040,3,183,Manicure,Very relaxing,2024-01-09
+1041,6,201,Hair Treatment,Loved it!,2024-02-28
+1042,12,96,Facial,Very relaxing,2024-02-02
+1043,5,101,Wellness Package,Could be better,2024-02-11
+1044,8,491,Wellness Package,Too expensive,2023-12-28
+1045,10,490,Facial,Amazing experience,2024-01-26
+1046,4,53,Yoga Session,Loved it!,2024-01-05
+1047,6,305,Yoga Session,Very relaxing,2023-12-07
+1048,7,459,Facial,Highly recommend,2023-12-27
+1049,4,94,Yoga Session,Too expensive,2024-02-20
+1050,7,116,Hair Treatment,Highly recommend,2023-12-10
+1051,12,153,Massage,Not bad,2024-02-05
+1052,9,480,Massage,Highly recommend,2024-02-07
+1053,6,381,Facial,Will come again,2023-12-30
+1054,3,366,Hair Treatment,Too expensive,2023-12-25
+1055,3,404,Yoga Session,Amazing experience,2024-01-15
+1056,2,476,Massage,Will come again,2024-01-19
+1057,3,67,Hair Treatment,Will come again,2024-01-07
+1058,12,281,Wellness Package,Highly recommend,2023-12-29
+1059,3,311,Yoga Session,Will come again,2024-01-15
+1060,1,422,Hair Treatment,Amazing experience,2024-02-23
+1061,1,89,Yoga Session,Loved it!,2024-01-22
+1062,2,456,Facial,Too expensive,2024-01-19
+1063,10,178,Manicure,Will come again,2023-12-03
+1064,4,230,Hair Treatment,Will come again,2023-12-31
+1065,4,260,Facial,Will come again,2024-02-02
+1066,10,245,Wellness Package,Very relaxing,2024-02-02
+1067,11,203,Wellness Package,Not bad,2023-12-26
+1068,2,376,Facial,Not bad,2024-01-30
+1069,11,318,Facial,Amazing experience,2024-02-21
+1070,3,156,Manicure,Too expensive,2024-02-19
+1071,1,475,Yoga Session,Too expensive,2024-01-23
+1072,11,218,Massage,Very relaxing,2023-12-16
+1073,9,387,Wellness Package,Highly recommend,2023-12-13
+1074,9,235,Massage,Highly recommend,2023-12-18
+1075,7,467,Hair Treatment,Could be better,2024-02-10
+1076,10,315,Wellness Package,Loved it!,2024-01-19
+1077,4,315,Manicure,Amazing experience,2023-12-29
+1078,7,425,Manicure,Amazing experience,2024-01-09
+1079,11,184,Manicure,Loved it!,2024-02-01
+1080,9,370,Wellness Package,Too expensive,2023-12-24
+1081,4,318,Manicure,Could be better,2024-02-29
+1082,4,243,Wellness Package,Could be better,2024-01-28
+1083,11,113,Massage,Could be better,2024-01-07
+1084,5,204,Facial,Could be better,2023-12-11
+1085,8,489,Yoga Session,Very relaxing,2024-02-26
+1086,8,492,Facial,Could be better,2024-02-29
+1087,2,426,Yoga Session,Could be better,2024-02-11
+1088,11,98,Wellness Package,Amazing experience,2024-01-08
+1089,7,184,Massage,Will come again,2024-01-27
+1090,3,232,Massage,Could be better,2024-01-14
+1091,9,500,Wellness Package,Very relaxing,2023-12-18
+1092,8,342,Manicure,Will come again,2023-12-10
+1093,6,385,Massage,Amazing experience,2024-01-04
+1094,11,315,Facial,Will come again,2024-01-30
+1095,1,146,Massage,Could be better,2023-12-15
+1096,6,260,Wellness Package,Will come again,2023-12-06
+1097,1,273,Manicure,Will come again,2024-01-10
+1098,7,134,Hair Treatment,Too expensive,2024-02-29
+1099,9,275,Facial,Loved it!,2024-02-21
+1100,1,466,Yoga Session,Very relaxing,2024-02-24
