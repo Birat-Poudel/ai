@@ -1,3 +1,4 @@
 .venv
 api-venv
 .env.local
+.DS_Store
